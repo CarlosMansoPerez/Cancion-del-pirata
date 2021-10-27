@@ -1,0 +1,11 @@
+body{background-image: url(/images/pirata2.jpg);
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+#container {background-color: hsla(29, 80%, 47%, 0.568);
+        width:80%;
+        margin:auto;
+        text-align:center;
+    border: 3px solid black;
+    }
